@@ -47,7 +47,7 @@ if st.button('Predict Future Prices'):
     # Load scaler and model
     with open('scaler.pkl', 'rb') as f:
         scaler = pickle.load(f)
-    model = load_model('lstm_model.h5')
+    model = load_model('lstm_model.h5', compile=False)
 
     n_input = 50
     n_features = 1
