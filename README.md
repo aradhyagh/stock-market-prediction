@@ -22,17 +22,7 @@ url: https://stock-market-prediction-97haqczwb4xyqjd9usd55j.streamlit.app/
 
 ---
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Dependencies
+## Dependencies
 - streamlit
 - yfinance
 - pandas
