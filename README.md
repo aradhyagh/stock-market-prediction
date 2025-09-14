@@ -8,7 +8,7 @@ It allows you to:
 
 ---
 
-url: https://github.com/aradhyagh/stock-market-prediction/edit/main/README.md
+url: https://stock-market-prediction-97haqczwb4xyqjd9usd55j.streamlit.app/
 
 ---
 
